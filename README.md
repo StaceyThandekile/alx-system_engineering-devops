@@ -1,1 +1,1 @@
-My fist script
+current working directory
