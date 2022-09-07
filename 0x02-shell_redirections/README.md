@@ -28,3 +28,4 @@ Write a script that lists all the files with a .gif extension in the current dir
 Create a script that decodes acrostics that use the first letter of each line.
 Write a script that parses web servers logs in TSV format as input and displays the 11 hosts or IP addresses which did the most requests.
 Write a script that prints “Hello, World”, followed by a new line to the standard output
+Display the first 10 lines of /etc/passwd
